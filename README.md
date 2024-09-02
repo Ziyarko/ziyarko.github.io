@@ -14,6 +14,7 @@
 
     --> Finished a data science course at coursera and in the process of completing a finance course
 
-    --> Went to a boarding Sailing school for 10 days
+    --> Went to a sailing camp for 2 weeks
+
     
     
