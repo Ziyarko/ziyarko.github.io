@@ -1,6 +1,6 @@
 # Projects
 
-<a href="/DEVELOPWSWİFT.md">Develop in Swift</a>
+<a href="/DEVELOPWSWIFT.md">Develop in Swift</a>
 
 <a href="/README.md">HOME</a>
 
