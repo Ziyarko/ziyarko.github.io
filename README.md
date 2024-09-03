@@ -1,7 +1,9 @@
                                                                                               
 # Ziya Kök
-                                           Home/Cs-50course/Projects/Develop in swift
-                                             
+                                            Home/Cs-50course/Projects/Develop in swift
+Cs-50course
+<a href="/CS-50COURSE.md">Cs-50Course</a>
+
 
   # About Me
     Hello!👋 My name is Ziya, and I am a sophmore in highschool at Hisar. I like playing basketball and listening to music.
