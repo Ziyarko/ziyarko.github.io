@@ -3,7 +3,7 @@
                                             Home/Cs-50course/Projects/Develop in swift
 
 
-<a href="/DEVELOPWSWİFT.md">Develop in Swift</a>
+<a href="/DEVELOPWSWIFT.md">Develop in Swift</a>
 
 <a href="/PROJECTS.md">Projects</a>
 
