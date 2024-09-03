@@ -1,6 +1,6 @@
                                                                                               
 # Ziya Kök
-                                             Home/Csp/Projects/Develop in swift
+                                           Home/Cs-50course/Projects/Develop in swift
                                              
 
   # About Me
