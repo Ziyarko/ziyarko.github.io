@@ -113,4 +113,7 @@ What types of input do your devices accept?
 Laptop computer
 Gaming console
 
+1.2 vid 2 6min
+
+
     
