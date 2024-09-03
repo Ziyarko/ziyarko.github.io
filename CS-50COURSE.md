@@ -1,4 +1,4 @@
-# Projects
+# Cs-50Course
 
 <a href="/DEVELOPWSWIFT.md">Develop in Swift</a>
 
