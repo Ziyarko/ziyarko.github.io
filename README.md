@@ -1,9 +1,9 @@
                                                                                               
-  <p align center # Ziya Kök
+# Ziya Kök
                                              Home/Csp/Projects/Develop in swift
                                              
 
-  b> About Me
+  # About Me
     Hello!👋 My name is Ziya, and I am a sophmore in highschool at Hisar. I like playing basketball and listening to music.
     I picked Ap computer science to learn more about algorithms, coding and etc. In my free time i like producing music and
     scrolling through the internet.
