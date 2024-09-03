@@ -1,8 +1,12 @@
                                                                                               
 # Ziya Kök
                                             Home/Cs-50course/Projects/Develop in swift
-Cs-50course
 <a href="/CS-50COURSE.md">Cs-50Course</a>
+
+<a href="/DEVELOPWSWİFT.md">About Us</a>
+
+<a href="/PROJECTS.md">About Us</a>
+
 
 
   # About Me
