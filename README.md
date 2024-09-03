@@ -10,7 +10,7 @@
 
     ______________________________________________________________________________________________________________________
 
-    Recently...
+  # Recently...
     --> I did a internship at a startup called Madlen that specializes in using Ai in education.
 
     --> Finished a data science course at coursera and in the process of completing a finance course
