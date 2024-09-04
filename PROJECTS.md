@@ -1,10 +1,10 @@
 # Projects
 
-<a href="/DEVELOPWSWİFT.md">Develop in Swift</a>
+<a href="https://ziyarko.github.io/DEVELOPWSWIFT.md">Develop in Swift</a>
 
-<a href="/README.md">HOME</a>
+<a href="https://ziyarko.github.io/README.md">HOME</a>
 
-<a href="/CS-50COURSE.md">Cs-50Course</a>
+<a href="https://ziyarko.github.io/CS-50COURSE.md">Cs-50Course</a>
 
 
 
