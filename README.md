@@ -3,11 +3,11 @@
                                             Home/Cs-50course/Projects/Develop in swift
 
 
-<a href="/ziyarko.github.io/DEVELOPWSWIFT.md">Develop in Swift</a>
+<a href="/DEVELOPWSWIFT.md">Develop in Swift</a>
 
-<a href="/ziyarko.github.io/PROJECTS.md">Projects</a>
+<a href="/PROJECTS.md">Projects</a>
 
-<a href="/ziyarko.github.io/CS-50COURSE.md">Cs-50Course</a>
+<a href="CS-50COURSE.md">Cs-50Course</a>
 
 
 
