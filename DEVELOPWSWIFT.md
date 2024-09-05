@@ -70,9 +70,9 @@
         </header>
         
    <nav>
-            <a href="#">Home</a>
-            <a href="#">Projects</a>
-            <a href="#">Develop in Swift</a>
+        <a href="https://ziyarko.github.io/DEVELOPWSWIFT.html">Develop in Swift</a>
+        <a href="https://ziyarko.github.io/PROJECTS.html">Projects</a>
+        <a href="https://ziyarko.github.io">HOME</a>
         </nav>
 
  <div class="content">
