@@ -6,68 +6,106 @@
     <title>Ziya Kök - Portfolio</title>
     <style>
         body {
-            font-family: Arial, sans-serif;
-            line-height: 1.6;
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
             margin: 0;
             padding: 0;
-            background-color: #f4f4f4;
+            background-color: #e9ecef;
+            color: #343a40;
         }
         header {
-            background: #333;
+            background: #007bff;
             color: #fff;
-            padding: 10px 0;
+            padding: 20px;
             text-align: center;
+        }
+        header h1 {
+            margin: 0;
+            font-size: 2.5em;
+        }
+        header p {
+            margin: 5px 0 0;
+            font-size: 1.1em;
         }
         nav {
-            text-align: center;
-            margin: 20px 0;
+            display: flex;
+            justify-content: center;
+            gap: 20px;
+            padding: 10px 0;
+            background: #fff;
+            border-bottom: 1px solid #dee2e6;
         }
         nav a {
-            margin: 0 15px;
-            color: #333;
+            color: #007bff;
             text-decoration: none;
             font-weight: bold;
+            padding: 10px 20px;
+            border-radius: 5px;
+            transition: background-color 0.3s, color 0.3s;
+        }
+        nav a:hover {
+            background-color: #007bff;
+            color: #fff;
         }
         main {
             padding: 20px;
-            background: #fff;
+            max-width: 900px;
             margin: 20px auto;
-            max-width: 800px;
-            border-radius: 5px;
+            background: #fff;
+            border-radius: 10px;
+            box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
         }
-        h1, h2 {
-            color: #333;
+        h2 {
+            color: #007bff;
+            border-bottom: 2px solid #007bff;
+            padding-bottom: 5px;
+            margin-bottom: 15px;
         }
-        hr {
-            border: 0;
-            border-top: 1px solid #ddd;
-            margin: 20px 0;
+        p {
+            line-height: 1.6;
+        }
+        ul {
+            list-style-type: disc;
+            margin: 0;
+            padding-left: 20px;
+        }
+        ul li {
+            margin-bottom: 10px;
+        }
+        footer {
+            text-align: center;
+            padding: 20px;
+            background: #007bff;
+            color: #fff;
+            position: fixed;
+            width: 100%;
+            bottom: 0;
         }
     </style>
 </head>
 <body>
     <header>
         <h1>Ziya Kök</h1>
-        <p>Home/Cs-50course/Projects/Develop in Swift</p>
+        <p>Home / Cs-50 Course / Projects / Develop in Swift</p>
     </header>
     <nav>
         <a href="https://ziyarko.github.io/DEVELOPWSWIFT.html">Develop in Swift</a>
         <a href="https://ziyarko.github.io/PROJECTS.html">Projects</a>
-        <a href="https://ziyarko.github.io/CS-50COURSE.html">Cs-50Course</a>
+        <a href="https://ziyarko.github.io/CS-50COURSE.html">Cs-50 Course</a>
     </nav>
     <main>
         <h2>About Me</h2>
-        <p>Hello! 👋 My name is Ziya, and I am a sophomore in high school at Hisar. I like playing basketball and listening to music. I picked AP Computer Science to learn more about algorithms, coding, etc. In my free time, I like producing music and scrolling through the internet.</p>
+        <p>Hello! 👋 My name is Ziya, and I am a sophomore in high school at Hisar. I enjoy playing basketball and listening to music. I chose AP Computer Science to learn more about algorithms and coding. In my free time, I love playing basketball and browsing the internet.</p>
         
-   <hr>
-
-h2Recently</h2>
+  <h2>Recently</h2>
         <ul>
-            <li>I did an internship at a startup called Madlen that specializes in using AI in education.</li>
-            <li>Finished a data science course at Coursera and am in the process of completing a finance course.</li>
-            <li>Went to a sailing camp for 2 weeks.</li>
+            <li>Completed an internship at a startup called Madlen, specializing in AI in education.</li>
+            <li>Finished a data science course on Coursera and am currently completing a finance course.</li>
+            <li>Attended a sailing camp for two weeks.</li>
         </ul>
     </main>
+    <footer>
+        <p>&copy; 2024 Ziya Kök. All rights reserved.</p>
+    </footer>
 </body>
 </html>
 
