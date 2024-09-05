@@ -1,10 +1,10 @@
 # Develop With Swift
 
-<meta http-equiv="refresh" content="0; url=http://example.com/" />
+<a href="https://ziyarko.github.io/README.md">Home</a>
 
-<meta http-equiv="refresh" content="0; url=http://example.com/" />
+<a href="https://ziyarko.github.io/PROJECTS.md">Projects</a>
 
-<meta http-equiv="refresh" content="0; url=http://example.com/" />
+<a href="https://ziyarko.github.io/CS-50COURSE.md">Cs-50Course</a>
 
 
 
