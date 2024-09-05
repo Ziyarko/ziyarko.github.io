@@ -86,8 +86,8 @@
     <title>Example Link</title>
 </head>
 <body>
-    <p>Click the link below to visit OpenAI:</p>
-    <a href="https://www.openai.com" target="_blank">Visit OpenAI</a>
+    <p>Click the link below to visit my scratch connect 4 game:</p>
+    <a href="[https://www.openai.com](https://scratch.mit.edu/projects/1062931090)" target="_blank">Connect 4(Scratch)</a>
 </body>
 </html>
 
