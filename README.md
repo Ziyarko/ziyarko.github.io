@@ -61,7 +61,7 @@
         
    <hr>
 
-h2>About Me</h2>
+h2Recently</h2>
         <ul>
             <li>I did an internship at a startup called Madlen that specializes in using AI in education.</li>
             <li>Finished a data science course at Coursera and am in the process of completing a finance course.</li>
