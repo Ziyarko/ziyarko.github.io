@@ -78,4 +78,17 @@
  <div class="content">
             <p>Hello!👋 My name is Ziya, this is my page for my Projects.</p>
 
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Example Link</title>
+</head>
+<body>
+    <p>Click the link below to visit OpenAI:</p>
+    <a href="https://www.openai.com" target="_blank">Visit OpenAI</a>
+</body>
+</html>
+
  
