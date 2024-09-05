@@ -1,10 +1,10 @@
 # Cs-50Course
 
-<meta http-equiv="refresh" content="0; url=http://example.com/" />
+<a href="https://ziyarko.github.io/DEVELOPWSWIFT.md">Develop in Swift</a>
 
-<meta http-equiv="refresh" content="0; url=http://example.com/" />
+<a href="https://ziyarko.github.io/PROJECTS.md">Projects</a>
 
-<meta http-equiv="refresh" content="0; url=http://example.com/" />
+<a href="https://ziyarko.github.io/README.md">Home</a>
 
 
 
