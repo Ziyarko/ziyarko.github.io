@@ -7,7 +7,7 @@
 
 <a href="https://ziyarko.github.io/PROJECTS.md">Projects</a>
 
-<a href="https://ziyarko.github.io/CS-50COURSE.md">Cs-50Course</a>
+<a href="https://ziyarko.github.io/CS-50COURSE.html">Cs-50Course</a>
 
 
 
