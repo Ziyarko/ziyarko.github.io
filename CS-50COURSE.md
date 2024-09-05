@@ -1,103 +1,82 @@
-# Cs-50Course
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Develop With Swift</title>
+    <style>
+        body {
+            font-family: 'Arial', sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #f0f2f5;
+            color: #333;
+        }
+        .container {
+            max-width: 800px;
+            margin: 0 auto;
+            padding: 20px;
+            background: #ffffff;
+            box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);
+            border-radius: 8px;
+        }
+        header {
+            background: #007bff;
+            color: #ffffff;
+            padding: 20px;
+            text-align: center;
+            border-radius: 8px 8px 0 0;
+            margin-bottom: 20px;
+        }
+        header h1 {
+            margin: 0;
+            font-size: 2em;
+        }
+        nav {
+            margin-bottom: 20px;
+        }
+        nav a {
+            display: inline-block;
+            margin: 0 15px;
+            text-decoration: none;
+            color: #007bff;
+            font-weight: bold;
+            font-size: 1.1em;
+        }
+        nav a:hover {
+            text-decoration: underline;
+        }
+        .content {
+            font-size: 1.2em;
+            line-height: 1.6;
+        }
+        .footer {
+            text-align: center;
+            margin-top: 20px;
+            font-size: 0.9em;
+            color: #666;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <header>
+            <h1>Develop With Swift</h1>
+        </header>
+        
+   <nav>
+            <a href="https://ziyarko.github.io/README.md">Home</a>
+            <a href="https://ziyarko.github.io/PROJECTS.md">Projects</a>
+            <a href="https://ziyarko.github.io/CS-50COURSE.md">Cs-50Course</a>
+        </nav>
 
-<a href="https://ziyarko.github.io/DEVELOPWSWIFT.md">Develop in Swift</a>
-
-<a href="https://ziyarko.github.io/PROJECTS.md">Projects</a>
-
-<a href="https://ziyarko.github.io/README.md">Home</a>
-
-
-
-Hello!👋My name is Ziya, this is my page for my CS-50 Course
-
- # College board 1.1 -1.3 Notes
-
-
-Collaboration:
-
-At the Facebook headquarters there is an open area with places sit, and people get together and collaborate to try to come up with innovations.
-
-In Super Mario Brothers 2 Kensuke Tanabe while designing the game wanted to do vertical levels where the player goes upwards. While collaborating with Shigeru Miyamoto, Miyamoto suggested they do horizontal levels as well, and that is why the Super Mario Brothers 2 has horizontal and vertical levels adding more diversity to the gameplay of the game, boosting its ratings and creatiing a great game. 
-
-The skills learned through collaboration is:
-
-Communication, Consensus Building, Conflict resolution.
-
-
-How to collaborate is Ap CSP
-
-Pair programming:
-
-Pair programming is when one person writes the code while the other one reviews it and gives another perspective.
-
-Think pair share:
-
-Students think through a problem alone, then pair with a partner and share their ideas. This results in more diverse answers.
-
-Program Function and Purpose
-
-Computing Innovations
-  Applications/Physical Devices/Systems
-
- Guiding questions
-
-Why does the computing innovation exist?
-
-What problem does the innovation solve?
-
-What does the computing innovation allow us to do that we could not do before.
-
-Ex: Social Media apps
-
-Allows users to connect from a distance and archive their activities.
-
-Ex: E-commerce
-
-Allows users to shop from wherever they want.
-
-
-
-
-Identify Inputs to a program
-Identify outputs produced by a program
-
-CRD-2.C.1 Program inputs are data sent to a computer for processing by a
-program. Input can come in a variety of forms, such as tactile, audio, visual,
-or text.
-CRD-2.C.2 An event is associated with an action and supplies input data to
-a program.
-8*
-CRD-2.C.3 Events can be generated when a key is pressed, a mouse is
-clicked, a program is started, or any other defined action occurs that affects
-the flow of execution.
-CRD-2.C.4 Inputs usually affect the output produced by a program.
-CRD-2.C.5 In event-driven programming, program statements are executed
-when triggered rather than through the sequential flow of control.
-borate in AP CSP.
-CRD-2.C.6 Input can come from a user or other programs.
-CRD-2.D.1 Program outputs are any data sent from a program to a devict
-Program output can come in a variety of forms, such as tactile, audio,
-visual, or text.
-ing innovations are
-ment of the program.
-programs take inputs
-CRD-2.D.2 Program output is usually based on a program's input or prior
-state (e.g., internal values).
-
-Computer Programs accept input in a variety of
-different forms:
-• tactile (touch)
-O
-audio
-a
-visual
-• text (including numerical values)
-What types of input do your devices accept?
-• Smart phone/tablet
-Laptop computer
-Gaming console
-
-1.2 vid 2 6min
-
-
-    
+   <div class="content">
+            <p>Hello!👋 My name is Ziya, this is my page for developing with Swift.</p>
+        </div>
+        
+   <div class="footer">
+            <p>&copy; 2024 Ziya. All rights reserved.</p>
+        </div>
+    </div>
+</body>
+</html>
