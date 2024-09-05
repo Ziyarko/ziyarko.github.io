@@ -17,7 +17,7 @@
     <main>
         <p>Hello! 👋 My name is Ziya, this is my page for my projects</p>
 
-        <h2>Scratch-Connect Four Game</h2>
+<h2>Scratch-Connect Four Game</h2>
         <a href="https://scratch.mit.edu/projects/1062931090" target="_blank">Visit Connect Four Scratch</a>
     </main>
 </body>
