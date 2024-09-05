@@ -71,7 +71,7 @@
         
    <nav>
         <a href="https://ziyarko.github.io/DEVELOPWSWIFT.html">Develop in Swift</a>
-        <a href="https://ziyarko.github.io/README.html">HOME</a>
+        <a href="https://ziyarko.github.io">HOME</a>
         <a href="https://ziyarko.github.io/CS-50COURSE.html">Cs-50Course</a>
         </nav>
 
