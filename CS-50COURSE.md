@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
@@ -78,7 +77,7 @@
  <div class="content">
             <p>Hello!👋 My name is Ziya, this is my page for my CS-50 Course.</p>
 
-  <h2>College Board 1.1 - 1.3 Notes</h2>
+  <h2>College Board 1.1 - 2.1 Notes</h2>
 
  <p><strong>Collaboration:</strong></p>
             <p>At the Facebook headquarters there is an open area with places to sit, and people get together and collaborate to try to come up with innovations.</p>
