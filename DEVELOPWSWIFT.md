@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
@@ -70,7 +69,7 @@
         </header>
         
    <nav>
-        <a href="https://ziyarko.github.io/DEVELOPWSWIFT.html">Develop in Swift</a>
+        <a href="https://ziyarko.github.io/CS50COURSE.html">Develop in Swift</a>
         <a href="https://ziyarko.github.io/PROJECTS.html">Projects</a>
         <a href="https://ziyarko.github.io">HOME</a>
         </nav>
