@@ -78,7 +78,6 @@
  <div class="content">
             <p>Hello!👋 My name is Ziya, this is my page for my Projects.</p>
 
-<!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
