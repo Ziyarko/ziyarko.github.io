@@ -70,7 +70,7 @@
         </header>
            <nav>
             <a href="https://ziyarko.github.io/DEVELOPWSWIFT.html">Develop in Swift</a>
-            <a href="https://ziyarko.github.io/DOCUMENTATION.html">Documentation</a>
+            <a href="https://ziyarko.github.io/CS-50COURSE.html">CS-50COURSE</a>
             <a href="https://ziyarko.github.io/PROJECTS.html">Projects</a>
             <a href="https://ziyarko.github.io">HOME</a>
         </nav>
@@ -89,7 +89,7 @@
                 </ul>
             </div>
 
-  <h2>Project 2: Connect4</h2>
+  <h2>Project 2: Creating a Connect4 game</h2>
             <p>For my second project, I was tasked with creating a Connect4 game on Scratch. I didn’t know where to start this project, so I searched up a YouTube tutorial.</p>
             <p>I started on the basics, inserting the sprites, putting them in position, and adding some movement. I added a few variables to keep track of whose turn it is, the board coordinates, column number, if the game has ended, etc.</p>
             <p>After finishing the basic Connect Four game, I saw that everyone had done the game from the same tutorial video and that all the games looked identical. I decided to add some uniqueness to it and added a boxing theme to the game. I coded my own start screen and ending screen and created some animations to make the game more fun and unique.</p>
