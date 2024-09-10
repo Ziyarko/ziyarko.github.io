@@ -57,6 +57,15 @@
     <header>
         <div class="container">
             <h1>Documentation</h1>
+        <p>Home / Cs-50 Course / Projects / Develop in Swift</p>
+    </header>
+    <nav>
+        <a href="https://ziyarko.github.io/DEVELOPWSWIFT.html">Develop in Swift</a>
+        <a href="https://ziyarko.github.io/README.html">Home</a>
+        <a href="https://ziyarko.github.io/PROJECTS.html">Projects</a>
+        <a href="https://ziyarko.github.io/CS-50COURSE.html">Cs-50 Course</a>
+    </nav>
+    <main>
         </div>
     </header>
       <div class="container">
