@@ -69,7 +69,7 @@
         </header>
         
    <nav>
-        <a href="https://ziyarko.github.io/CS50COURSE.html">CS-50Course</a>
+        <a href="https://ziyarko.github.io/CS-50COURSE.html">CS-50Course</a>
        <a href="https://ziyarko.github.io/DOCUMENTATION.html">Documentation</a>
         <a href="https://ziyarko.github.io/PROJECTS.html">Projects</a>
         <a href="https://ziyarko.github.io">HOME</a>
