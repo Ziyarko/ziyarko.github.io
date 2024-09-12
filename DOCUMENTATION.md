@@ -54,6 +54,14 @@
             color: #007bff;
             margin-top: 20px;
         }
+        .sources h3 {
+            font-size: 1.5em;
+            color: #007bff;
+            margin-top: 15px;
+        }
+        .sources ul {
+            padding-left: 20px;
+        }
         .footer {
             text-align: center;
             margin-top: 20px;
@@ -67,20 +75,19 @@
         <header>
             <h1>Ziya Kök - Documentation</h1>
         </header>
-           <nav>
+        
+  <nav>
             <a href="https://ziyarko.github.io/DEVELOPWSWIFT.html">Develop in Swift</a>
-            <a href="https://ziyarko.github.io/CS-50COURSE.html">CS-50COURSE</a>
+            <a href="https://ziyarko.github.io/CS-50COURSE.html">CS-50 Course</a>
             <a href="https://ziyarko.github.io/PROJECTS.html">Projects</a>
-            <a href="https://ziyarko.github.io">HOME</a>
+            <a href="https://ziyarko.github.io">Home</a>
         </nav>
-        <div class="content">
-            <p>Hello!👋 My name is Ziya, this is my page for my Projects.</p>
-     <h2>Project 1: Creating a Github Website</h2>
-            <p>For my first project, I was tasked with creating a GitHub website. I had zero idea on how to create a GitHub website.</p>
-            <p>Initially, I thought the page would be built using the README file and with just typing the website down and adding links. This did not work as the website looked pale and ugly during the preview and only showed the code of the websites when I opened them from my links.</p>
-            <p>I realized I needed to use HTML links for the websites to open normally and also format the website using an HTML format. To help with the process, I asked ChatGPT for templates and learned how to modify the code to suit my needs. By understanding and adjusting the templates, I was able to successfully create my GitHub page and learned how to navigate GitHub’s interface.</p>
+     <div class="content">
+            <p>Hello! 👋 My name is Ziya, and this is my page for documenting my projects.</p>
+       <h2>Project 1: Creating a GitHub Website</h2>
+            <p>For my first project, I was tasked with creating a GitHub website. Initially, I had no idea how to start, but after some trial and error, I learned to use HTML for formatting and structure. ChatGPT assisted me in modifying templates, and I successfully created my GitHub page.</p>
             
-  <div class="sources">
+<div class="sources">
                 <h3>Sources:</h3>
                 <ul>
                     <li>My Classmates</li>
@@ -88,22 +95,20 @@
                 </ul>
             </div>
 
-  <h2>Project 2: Creating a Connect4 game</h2>
-            <p>For my second project, I was tasked with creating a Connect4 game on Scratch. I didn’t know where to start this project, so I searched up a YouTube tutorial.</p>
-            <p>I started on the basics, inserting the sprites, putting them in position, and adding some movement. I added a few variables to keep track of whose turn it is, the board coordinates, column number, if the game has ended, etc.</p>
-            <p>After finishing the basic Connect Four game, I saw that everyone had done the game from the same tutorial video and that all the games looked identical. I decided to add some uniqueness to it and added a boxing theme to the game. I coded my own start screen and ending screen and created some animations to make the game more fun and unique.</p>
-            
-  <div class="sources">
+  <h2>Project 2: Creating a Connect4 Game</h2>
+            <p>For my second project, I created a Connect4 game using Scratch. After following a YouTube tutorial, I added my own creative touches, like a boxing theme, and custom animations for the start and end screens, making my project stand out.</p>
+
+ <div class="sources">
                 <h3>Sources:</h3>
                 <ul>
-                    <li>YouTube tutorial: <a href="https://youtube.com/playlist?list=PL672HbqQIxzvl_NdPFleHiMQbmdjSFtK4&feature=shared" target="_blank">https://youtube.com/playlist?list=PL672HbqQIxzvl_NdPFleHiMQbmdjSFtK4&feature=shared</a></li>
+                    <li>YouTube tutorial: <a href="https://youtube.com/playlist?list=PL672HbqQIxzvl_NdPFleHiMQbmdjSFtK4&feature=shared" target="_blank">Connect4 Game Tutorial</a></li>
                     <li>Sprites from: <a href="https://vecteezy.com" target="_blank">vecteezy.com</a></li>
                     <li>The Scratch website: <a href="https://scratch.mit.edu" target="_blank">scratch.mit.edu</a></li>
                 </ul>
             </div>
         </div>
 
- <div class="footer">
+   <div class="footer">
             <p>&copy; 2024 Ziya Kök. All rights reserved.</p>
         </div>
     </div>
