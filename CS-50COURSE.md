@@ -127,7 +127,16 @@
         <p>Examples:</p>
         <ul>
             <li>Smartphones</li>
-            <li>Gaming consoles</li>
+            <li>Gaming consoles</li>    
+
+  <li>Program Function & Purpose:</li>
+            <p>This clarifies that the purpose of computing tools is to address particular issues. Programs adhere to certain programming language principles and use inputs to influence their behavior.</p>
+
+   <li>Program Design & Development:</li>
+            <p>This course teaches you to develop and construct programs carefully. It also demonstrates the need of producing understandable comments and documentation and how to enhance currently running programs.</p>
+
+ <li>Finding and Correcting Errors:</li>
+            <p>This explains why it's common for programmers to make mistakes. It covers many issue types, such as syntax, runtime, and overflow errors, their fixes, and how to test programs to ensure they function properly.</p>
         </ul>
     </main>
 
