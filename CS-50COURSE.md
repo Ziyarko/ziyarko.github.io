@@ -96,7 +96,7 @@
    <main>
         <h2>CS-50 Course Overview</h2>
         <p>Hello! 👋 My name is Ziya, and this is my page for the CS-50 Course.</p>
-        <h2>College Board 1.1 - 2.1 Notes</h2>
+        <h2>College Board 1.1 - 2.5 Notes</h2>
         <p><strong>Collaboration:</strong></p>
         <p>At Facebook HQ, collaboration spaces encourage innovation. In Super Mario Brothers 2, collaboration between designers led to the addition of vertical and horizontal levels, improving gameplay diversity.</p>
         <ul>
