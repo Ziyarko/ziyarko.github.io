@@ -79,29 +79,24 @@
         <p>Home / CS-50 Course / Documentation / Projects</p>
     </header>
 
-<nav>
+  <nav>
         <a href="https://ziyarko.github.io/CS-50COURSE.html">CS-50 Course</a>
         <a href="https://ziyarko.github.io/DOCUMENTATION.html">Documentation</a>
         <a href="https://ziyarko.github.io/PROJECTS.html">Projects</a>
         <a href="https://ziyarko.github.io">Home</a>
     </nav>
-  <main>
+
+ <main>
         <h2>Introduction</h2>
         <p>Hello! 👋 My name is Ziya, and this is my page for Developing with Swift.</p>
-        <h2>Why Swift?</h2>
+
+   <h2>Why Swift?</h2>
         <p>Swift is a powerful and intuitive programming language developed by Apple. I chose Swift because it makes it easier to build fast, reliable, and safe software for iOS, macOS, watchOS, and tvOS.</p>
-        <h2>Learning Resources</h2>
+
+   <h2>Learning Resources</h2>
         <p>Here are some of the resources I used to learn Swift:</p>
         <ul>
             <li>Apple's Swift documentation</li>
             <li>Developing iOS Apps with Swift by Stanford University</li>
-            <li>Various tutorials on Swift Playgrounds</li>
-        </ul>
-    </main>
-
- <footer>
-        <p>&copy; 2024 Ziya Kök. All rights reserved.</p>
-    </footer>
-</body>
-</html>
+            <li>Various tutorials on Swift
 
