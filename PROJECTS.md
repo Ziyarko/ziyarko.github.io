@@ -104,6 +104,11 @@
         <a href="https://scratch.mit.edu/projects/1062931090" target="_blank">Connect 4 (Scratch)</a>
     </main>
 
+  <h2>Featured Project</h2>
+        <p>Click the link below to visit my Scratch Ping Pong game:</p>
+        <a href="https://scratch.mit.edu/projects/1081267471" target="_blank">Ping Pong (Scratch)</a>
+    </main>
+
 <footer>
         <p>&copy; 2024 Ziya Kök. All rights reserved.</p>
     </footer>
