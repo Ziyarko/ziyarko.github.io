@@ -1,3 +1,6 @@
+
+
+html
 <html lang="en">
 <head>
     <meta charset="UTF-8">
@@ -93,10 +96,10 @@
         <a href="https://ziyarko.github.io">Home</a>
     </nav>
 
-   <main>
+<main>
         <h2>CS-50 Course Overview</h2>
         <p>Hello! 👋 My name is Ziya, and this is my page for the CS-50 Course.</p>
-        <h2>College Board 1.1 - 2.5 Notes</h2>
+     <h2>College Board 1.1 - 3.7 Notes</h2>
         <p><strong>Collaboration:</strong></p>
         <p>At Facebook HQ, collaboration spaces encourage innovation. In Super Mario Brothers 2, collaboration between designers led to the addition of vertical and horizontal levels, improving gameplay diversity.</p>
         <ul>
@@ -105,10 +108,11 @@
             <li>Conflict Resolution</li>
         </ul>
 
-  <h2>How to Collaborate in AP CSP</h2>
+   <h2>How to Collaborate in AP CSP</h2>
         <p><strong>Pair Programming:</strong> One person codes while the other reviews.</p>
         <p><strong>Think Pair Share:</strong> Individuals think, pair with partners, and share their ideas, leading to more diverse problem-solving.</p>
- <h2>Program Function and Purpose</h2>
+
+   <h2>Program Function and Purpose</h2>
         <p><strong>Computing Innovations:</strong> Applications, physical devices, and systems that solve real-world problems.</p>
         <ul>
             <li>Why does the innovation exist?</li>
@@ -121,22 +125,19 @@
             <li><strong>E-commerce:</strong> Enables shopping from anywhere.</li>
         </ul>
 
-<h2>Inputs and Outputs of Programs</h2>
+  <h2>Inputs and Outputs of Programs</h2>
         <p><strong>Inputs:</strong> Data sent to a program for processing.</p>
         <p><strong>Outputs:</strong> Results produced by the program based on inputs or internal state.</p>
         <p>Examples:</p>
         <ul>
             <li>Smartphones</li>
-            <li>Gaming consoles</li>    
-
-  <li>Program Function & Purpose:</li>
-            <p>This clarifies that the purpose of computing tools is to address particular issues. Programs adhere to certain programming language principles and use inputs to influence their behavior.</p>
-
-   <li>Program Design & Development:</li>
-            <p>This course teaches you to develop and construct programs carefully. It also demonstrates the need of producing understandable comments and documentation and how to enhance currently running programs.</p>
-
- <li>Finding and Correcting Errors:</li>
-            <p>This explains why it's common for programmers to make mistakes. It covers many issue types, such as syntax, runtime, and overflow errors, their fixes, and how to test programs to ensure they function properly.</p>
+            <li>Gaming consoles</li>
+        </ul>
+    <h2>Additional Concepts</h2>
+        <ul>
+            <li><strong>Program Function & Purpose:</strong> Computing tools address specific issues, using inputs to affect program behavior.</li>
+            <li><strong>Program Design & Development:</strong> Focuses on careful program construction and documentation for clarity and efficiency.</li>
+            <li><strong>Finding and Correcting Errors:</strong> Discusses types of errors (syntax, runtime, etc.), fixes, and testing methods.</li>
         </ul>
     </main>
 
@@ -145,3 +146,4 @@
     </footer>
 </body>
 </html>
+
