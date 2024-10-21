@@ -1,6 +1,3 @@
-
-
-html
 <html lang="en">
 <head>
     <meta charset="UTF-8">
@@ -96,10 +93,11 @@ html
         <a href="https://ziyarko.github.io">Home</a>
     </nav>
 
-<main>
+   <main>
         <h2>CS-50 Course Overview</h2>
         <p>Hello! 👋 My name is Ziya, and this is my page for the CS-50 Course.</p>
-     <h2>College Board 1.1 - 3.7 Notes</h2>
+        
+  <h2>College Board 1.1 - 3.7 Notes</h2>
         <p><strong>Collaboration:</strong></p>
         <p>At Facebook HQ, collaboration spaces encourage innovation. In Super Mario Brothers 2, collaboration between designers led to the addition of vertical and horizontal levels, improving gameplay diversity.</p>
         <ul>
@@ -107,12 +105,11 @@ html
             <li>Consensus Building</li>
             <li>Conflict Resolution</li>
         </ul>
-
-   <h2>How to Collaborate in AP CSP</h2>
+    <h2>How to Collaborate in AP CSP</h2>
         <p><strong>Pair Programming:</strong> One person codes while the other reviews.</p>
         <p><strong>Think Pair Share:</strong> Individuals think, pair with partners, and share their ideas, leading to more diverse problem-solving.</p>
 
-   <h2>Program Function and Purpose</h2>
+ <h2>Program Function and Purpose</h2>
         <p><strong>Computing Innovations:</strong> Applications, physical devices, and systems that solve real-world problems.</p>
         <ul>
             <li>Why does the innovation exist?</li>
@@ -124,8 +121,7 @@ html
             <li><strong>Social Media:</strong> Connects people over distances.</li>
             <li><strong>E-commerce:</strong> Enables shopping from anywhere.</li>
         </ul>
-
-  <h2>Inputs and Outputs of Programs</h2>
+    <h2>Inputs and Outputs of Programs</h2>
         <p><strong>Inputs:</strong> Data sent to a program for processing.</p>
         <p><strong>Outputs:</strong> Results produced by the program based on inputs or internal state.</p>
         <p>Examples:</p>
@@ -133,17 +129,34 @@ html
             <li>Smartphones</li>
             <li>Gaming consoles</li>
         </ul>
-    <h2>Additional Concepts</h2>
+            <h2>Additional Concepts</h2>
         <ul>
             <li><strong>Program Function & Purpose:</strong> Computing tools address specific issues, using inputs to affect program behavior.</li>
             <li><strong>Program Design & Development:</strong> Focuses on careful program construction and documentation for clarity and efficiency.</li>
             <li><strong>Finding and Correcting Errors:</strong> Discusses types of errors (syntax, runtime, etc.), fixes, and testing methods.</li>
         </ul>
+    <h2>Variables and Assignments</h2>
+        <p>A variable is like a container that holds information in a program. Different programming languages have types such as numbers, true/false values, lists, and text, which you can access using variables. You can change what a variable holds, and to give it a new value, you use the "←" symbol.</p>
+    <h2>Data Abstraction</h2>
+        <p>An index helps you find items in a list or a string by using whole numbers. Data abstraction means focusing on the important features of a data type while ignoring the details. Lists are a good example of this, making it simpler to create and manage programs.</p>
+    <h2>Mathematical Expressions</h2>
+        <p>An algorithm is a series of steps meant to complete a specific job. You can write algorithms in everyday language, draw them out, or use pseudocode. They consist of sequences, choices, and repetitions.</p>
+
+ <h2>Strings</h2>
+        <p>Strings are groups of characters that represent text in programming. A substring is just a piece of a string. Strings can be used for names, words, or sentences, and you can change them by joining, cutting, or searching through them.</p>
+
+  <h2>Boolean Expressions</h2>
+        <p>A Boolean can either be true or false. It is represented by "1" for true and "0" for false. You often use Boolean operators like AND, OR, and NOT in conditions and loops.</p>
+
+  <h2>Conditionals</h2>
+        <p>Conditionals let your code make choices based on certain conditions. They use if, else if, and else statements to run different pieces of code depending on Boolean expressions. For example, if a condition is true, do something; if not, check other conditions.</p>
+
+  <h2>Nested Conditionals</h2>
+        <p>Nested conditionals happen when one conditional is placed inside another. They help manage more complicated decision-making situations.</p>
     </main>
 
- <footer>
+  <footer>
         <p>&copy; 2024 Ziya Kök. All rights reserved.</p>
     </footer>
 </body>
 </html>
-
