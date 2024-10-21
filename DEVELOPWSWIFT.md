@@ -112,10 +112,10 @@
         <a href="https://github.com/Ziyarko/QuestionBot">Questionbot App</a>
    
         
+  <h2>Apps:</h2>
         
         
-        
-        yavuz
+      
         
 </section>
 </body>
