@@ -103,7 +103,7 @@
         <p>&copy; 2024 Ziya Kök. All rights reserved.</p>
     </footer>
   <section>
-        <h2>Projects made with Swift:</h2>
+        <h2>Projects made with Swift 1-17:</h2>
         <a href="https://github.com/Ziyarko/ziyarkodevelopswift.github.io">Swift Code</a>
         <a href="https://github.com/Ziyarko/Xcode-Projects">X-Code projects 2</a>
 
