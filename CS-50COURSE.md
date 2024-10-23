@@ -155,6 +155,11 @@
         <p>Nested conditionals happen when one conditional is placed inside another. They help manage more complicated decision-making situations.</p>
     </main>
 
+ <h2>Big Idea Notes Video Explanation </h2>
+         <a href="https://youtu.be/cojtYOwTOhc?si=65O3tyffvmRVG7iZ" target="_blank">BigIdea1 (Youtube)</a>
+         <a href="https://youtu.be/C31To27__NM" target="_blank">BigIdea2 (Youtube)</a>
+    </main>
+
   <footer>
         <p>&copy; 2024 Ziya Kök. All rights reserved.</p>
     </footer>
