@@ -160,6 +160,11 @@
          <a href="https://youtu.be/C31To27__NM" target="_blank">BigIdea2 (Youtube)</a>
     </main>
 
+<h2>NOT KAYNAKLARI ^^ </h2>
+        
+  </main>
+
+
   <footer>
         <p>&copy; 2024 Ziya Kök. All rights reserved.</p>
     </footer>
