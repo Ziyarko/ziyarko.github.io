@@ -122,9 +122,12 @@
  <h2>Swift Ui Projects:</h2>
       <a href=" https://github.com/Ziyarko/SwiftUi-Landmark/tree/main/SwiftUi%20Landmark.xcodeproj">Swift Uİ Landmark</a> 
       <a href=" https://github.com/Ziyarko/MySelfIn6Words">Myself In Six Words</a> 
-      <a href=" https://github.com/Ziyarko/HelloSwiftUiReal/tree/main/Calculator"><swiftUICalculator</a> 
-      <a href=" https://github.com/Ziyarko/HelloSwiftUiReal/tree/main/HelloSwiftUiReal"><HelloSwiftUi</a> 
-  <h2>Apps:</h2>
+      <a href=" https://github.com/Ziyarko/HelloSwiftUiReal/tree/main/Calculator">>CalculatorSwiftUi</a> 
+      <a href=" https://github.com/Ziyarko/HelloSwiftUiReal/tree/main/HelloSwiftUiReal">HelloSwiftUi</a> 
+  
+          
+          
+<h2>Apps:</h2>
         
         
       
