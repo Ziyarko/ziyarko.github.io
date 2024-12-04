@@ -116,6 +116,14 @@
        <a href=" https://github.com/Ziyarko/ziyarkodevelopswift.github.io/tree/main/ColourPicker">RockPaperScissors</a> 
            
         
+ 
+
+
+ <h2>Swift Ui Projects:</h2>
+      <a href=" https://github.com/Ziyarko/SwiftUi-Landmark/tree/main/SwiftUi%20Landmark.xcodeproj">Swift Uİ Landmark</a> 
+      <a href=" https://github.com/Ziyarko/MySelfIn6Words">Myself In Six Words</a> 
+      <a href=" https://github.com/Ziyarko/HelloSwiftUiReal/tree/main/Calculator"><swiftUI Calculator</a> 
+      <a href=" https://github.com/Ziyarko/HelloSwiftUiReal/tree/main/HelloSwiftUiReal"><HelloSwiftUi</a> 
   <h2>Apps:</h2>
         
         
