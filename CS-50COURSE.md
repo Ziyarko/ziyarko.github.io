@@ -158,6 +158,7 @@
  <h2>Big Idea Notes Video Explanation </h2>
          <a href="https://youtu.be/cojtYOwTOhc?si=65O3tyffvmRVG7iZ" target="_blank">BigIdea1 (Youtube)</a>
          <a href="https://youtu.be/C31To27__NM" target="_blank">BigIdea2 (Youtube)</a>
+      <a href="https://youtu.be/C31To27__NM" target="_blank">BigIdea3(Youtube)</a>     
     </main>
 
 <h2>NOT KAYNAKLARI ^^ </h2>
