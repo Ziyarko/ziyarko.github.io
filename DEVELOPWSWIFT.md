@@ -124,7 +124,8 @@
       <a href=" https://github.com/Ziyarko/MySelfIn6Words">Myself In Six Words,</a> 
       <a href=" https://github.com/Ziyarko/HelloSwiftUiReal/tree/main/Calculator">CalculatorSwiftUi,</a> 
       <a href=" https://github.com/Ziyarko/HelloSwiftUiReal/tree/main/HelloSwiftUiReal">HelloSwiftUi,</a> 
-  
+    <a href=" https://youtu.be/T5In3RVzqYI">Playground, Rock paper scissors documentation</a> 
+ 
           
           
 <h2>Apps:</h2>
