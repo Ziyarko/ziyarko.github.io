@@ -97,7 +97,7 @@
         <h2>CS-50 Course Overview</h2>
         <p>Hello! 👋 My name is Ziya, and this is my page for the CS-50 Course.</p>
         
-  <h2>College Board 1.1 - 3.7 Notes</h2>
+  <h2>College Board Big Idea 1.1 - 5.4 Notes</h2>
         <p><strong>Collaboration:</strong></p>
         <p>At Facebook HQ, collaboration spaces encourage innovation. In Super Mario Brothers 2, collaboration between designers led to the addition of vertical and horizontal levels, improving gameplay diversity.</p>
         <ul>
@@ -151,10 +151,14 @@
   <h2>Conditionals</h2>
         <p>Conditionals let your code make choices based on certain conditions. They use if, else if, and else statements to run different pieces of code depending on Boolean expressions. For example, if a condition is true, do something; if not, check other conditions.</p>
 
-  <h2>Nested Conditionals</h2>
+   <h2>Nested Conditionals</h2>
         <p>Nested conditionals happen when one conditional is placed inside another. They help manage more complicated decision-making situations.</p>
-    </main>
 
+<h2>Big Idea 4 & 5</h2>
+        <p>Scalability refers to a system or network's capacity to accommodate growing workloads or users while maintaining performance and efficiency.</p>
+        <p>TCP/IP is a suite of protocols that enables computers to communicate over the internet, ensuring the reliable, sequential, and error-checked transmission of data packets.</p>
+        <p>The World Wide Web, or WWW, is a network of interlinked documents and resources accessible via the internet. It allows users to move between websites by clicking hyperlinks.</p>
+        <p>Routing is the process of determining the best paths within a network for data packets to travel from the source to the destination, factoring in speed, reliability, and network congestion.</p>
  <h2>Big Idea Notes Video Explanation </h2>
          <a href="https://youtu.be/cojtYOwTOhc?si=65O3tyffvmRVG7iZ" target="_blank">BigIdea1 (Youtube)</a>
          <a href="https://youtu.be/C31To27__NM" target="_blank">BigIdea2 (Youtube)</a>
