@@ -155,10 +155,11 @@
         <p>Nested conditionals happen when one conditional is placed inside another. They help manage more complicated decision-making situations.</p>
 
 <h2>Big Idea 4 & 5</h2>
-        <p>Scalability refers to a system or network's capacity to accommodate growing workloads or users while maintaining performance and efficiency.</p>
-        <p>TCP/IP is a suite of protocols that enables computers to communicate over the internet, ensuring the reliable, sequential, and error-checked transmission of data packets.</p>
-        <p>The World Wide Web, or WWW, is a network of interlinked documents and resources accessible via the internet. It allows users to move between websites by clicking hyperlinks.</p>
-        <p>Routing is the process of determining the best paths within a network for data packets to travel from the source to the destination, factoring in speed, reliability, and network congestion.</p>
+        Big ideas 4 & 5
+Scalability refers to the ability of a system or network to efficiently accommodate an increasing workload or number of users without degrading its performance. This is crucial for systems that expect growth, as they must be able to handle more tasks, connections, or processes smoothly as demand rises.
+TCP/IP (Transmission Control Protocol/Internet Protocol) is a comprehensive suite of communication protocols that allows computers to connect and exchange data over the internet. It provides reliable, sequential, and error-checked delivery of data packets, ensuring that information arrives intact and in the correct order.
+The World Wide Web, often abbreviated as the WWW or simply the web, is a vast system of interconnected documents, multimedia, and resources accessed via the internet. It enables users to navigate seamlessly between different websites by clicking hyperlinks, transforming the internet into a more interactive, user-friendly space for accessing information.
+Routing is the process of selecting the most efficient paths for data packets to travel across a network from their source to their destination. This involves dynamically calculating optimal routes based on various factors such as network speed, reliability, and levels of congestion, ensuring that data is transmitted as quickly and securely as possible.
  <h2>Big Idea Notes Video Explanation </h2>
          <a href="https://youtu.be/cojtYOwTOhc?si=65O3tyffvmRVG7iZ" target="_blank">BigIdea1 (Youtube)</a>
          <a href="https://youtu.be/C31To27__NM" target="_blank">BigIdea2 (Youtube)</a>
